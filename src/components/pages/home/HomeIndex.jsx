@@ -1,5 +1,5 @@
 import React from 'react'
-import {  } from "module";
+import Navbar from '../../layouts/Navbar'
 
 const HomeIndex = () => {
   return (

@@ -1,3 +1,4 @@
+import HomeIndex from "./components/pages/home/HomeIndex"
 
 
  
